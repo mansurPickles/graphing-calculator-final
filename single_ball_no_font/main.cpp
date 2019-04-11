@@ -3,8 +3,8 @@
 #include "vector.h"
 #include "system.h"
 #include "random.h"
-//#include "plotter.h"
-//#include "token.h"
+#include "plotter.h"
+#include "token.h"
 #include <iostream>
 #include "queue.h"
 #include "vector.h"
